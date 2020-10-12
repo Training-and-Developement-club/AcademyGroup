@@ -1,0 +1,14 @@
+C:\Users\Andrew\source\repos\Academy_Group\obj\Debug\Academy_Group.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\Academy_Group\obj\Debug\Academy_Group.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\Academy_Group\bin\Debug\Academy_Group.exe.config
+C:\Users\Andrew\source\repos\Academy_Group\bin\Debug\Academy_Group.exe
+C:\Users\Andrew\source\repos\Academy_Group\bin\Debug\Academy_Group.pdb
+C:\Users\Andrew\source\repos\Academy_Group\obj\Debug\Academy_Group.exe
+C:\Users\Andrew\source\repos\Academy_Group\obj\Debug\Academy_Group.pdb
+C:\Users\Andrew\Desktop\Academy_Group\bin\Debug\Academy_Group.exe.config
+C:\Users\Andrew\Desktop\Academy_Group\bin\Debug\Academy_Group.exe
+C:\Users\Andrew\Desktop\Academy_Group\bin\Debug\Academy_Group.pdb
+C:\Users\Andrew\Desktop\Academy_Group\obj\Debug\Academy_Group.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\Academy_Group\obj\Debug\Academy_Group.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\Academy_Group\obj\Debug\Academy_Group.exe
+C:\Users\Andrew\Desktop\Academy_Group\obj\Debug\Academy_Group.pdb
